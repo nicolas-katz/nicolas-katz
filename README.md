@@ -11,4 +11,4 @@ Languagues
 - English: intermediate
 
 Main technologies
-HTML, CSS, Boostrap, Tailwind, SASS, ES6, jQuery, React, React Testing Library, Jest, Redux, Next, TypeScript, Node, Express, Mongo, Firebase, SQL, GraphQL. 
+- HTML, CSS, Boostrap, Tailwind, SASS, ES6, jQuery, React, React Testing Library, Jest, Redux, Next, TypeScript, Node, Express, Mongo, Firebase, SQL, GraphQL. 
